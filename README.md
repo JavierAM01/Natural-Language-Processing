@@ -11,8 +11,8 @@ En este repositorio, exploraremos una amplia gama de proyectos relacionados con 
 ### Notes 
 
  - [NLP_conceptos_basicos.ipynb](https://github.com/JavierAM01/Natural-Language-Processing/blob/main/notes/NLP_conceptos_basicos.ipynb)
- - [Sentiment Analysis - fine tunning-distilbert.ipynb](https://github.com/JavierAM01/Natural-Language-Processing/blob/main/Text-Classification/Sentiment%20Analysis%20-%20fine%20tunning-distilbert.ipynb)
 
 ### Text Classification
 
  - [Multi class text classification - fine tuning-distilbert.ipynb](https://github.com/JavierAM01/Natural-Language-Processing/blob/main/Text-Classification/Multi%20class%20text%20classification%20-%20fine%20tuning-distilbert.ipynb)
+ - [Sentiment Analysis - fine tunning-distilbert.ipynb](https://github.com/JavierAM01/Natural-Language-Processing/blob/main/Text-Classification/Sentiment%20Analysis%20-%20fine%20tunning-distilbert.ipynb)
