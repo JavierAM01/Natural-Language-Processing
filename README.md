@@ -6,7 +6,7 @@
 
 ## Proyectos
 
-En este repositorio, exploraremos una amplia gama de proyectos relacionados con el procesamiento del lenguaje natural. 
+En este repositorio, exploraremos una amplia gama de proyectos relacionados con el procesamiento del lenguaje natural. En caso de que un notebook haga uso de algún dataset, se pondrá un link de descarga al mismo o bien estará guardado dentro de la carpeta **data** en su sección correspondiente.  
 
 ### Notes 
 
