@@ -10,6 +10,7 @@ En este repositorio, exploraremos una amplia gama de proyectos relacionados con 
 
 ### Notes 
 
+ - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
  - [NLP_conceptos_basicos.ipynb](https://github.com/JavierAM01/Natural-Language-Processing/blob/main/notes/NLP_conceptos_basicos.ipynb)
 
 ### Text Classification
