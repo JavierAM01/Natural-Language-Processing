@@ -1,12 +1,12 @@
-# Repositorio de Procesamiento del Lenguaje Natural (NLP)
+# Natural Language Processing (NLP) Repository  
 
-<img align="right" width="40%" src="images/nlp.png"></img>
+<img align="right" width="40%" src="images/nlp.png"></img>  
 
-¡Bienvenido al repositorio de Procesamiento del Lenguaje Natural (NLP)! Aquí encontrarás una variedad de proyectos relacionados con el NLP, un campo emocionante que se centra en la interacción entre las computadoras y el lenguaje humano.
+Welcome to the **Natural Language Processing (NLP) Repository**! Here, you'll find a variety of projects related to NLP, an exciting field focused on the interaction between computers and human language.  
 
-## Notebooks
+## Notebooks  
 
-En este repositorio, exploraremos una amplia gama de proyectos relacionados con el procesamiento del lenguaje natural. En caso de que un notebook haga uso de algún dataset, se pondrá un link de descarga al mismo o bien estará guardado dentro de la carpeta **data** en su sección correspondiente.  
+This repository explores a wide range of projects related to natural language processing. If a notebook requires a dataset, a download link will be provided, or the dataset will be stored in the **data** folder in its corresponding section.  
 
 ### Notes 
 
